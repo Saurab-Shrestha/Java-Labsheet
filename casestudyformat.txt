@@ -1,0 +1,242 @@
+As an example, a case study paper might consist of the following sections:
+
+1.	
+
+An “Introduction” section that
+
+a.	
+
+Defines the problems/challenges addressed in the paper;
+b.	
+
+Describes the objectives of the paper and their relevance to engineering practice;
+c.	
+
+Highlights how the new information can improve practice, which is the message; and
+d.	
+
+Outlines the scope and sequence of the paper.
+
+2.	
+
+A “Project Description” section that
+
+a.	
+
+Presents the nature and scope of the project, including relevant plans and cross sections of the facility, general construction methods and schedule, and performance goals;
+b.	
+
+Provides soil profiles and soil properties along with descriptions of site investigation and testing methods (soils should be described using the Unified Soil Classification System); and
+c.	
+
+Describes the problems/challenges encountered in the project and explains the approach taken to address these issues. Detailed information should be provided regarding analysis and design methods, special construction techniques, and the field performance–monitoring program. Rationale should also be provided for any additional laboratory and field tests, revised analyses, or changes in design and construction methods that were needed for the project.
+
+3.	
+
+An “Evaluation” section that
+
+a.	
+
+Provides detailed information used to identify and characterize the problems/challenges;
+b.	
+
+Describes relevant visual observations and presents field measurements;
+c.	
+
+Presents the results of analyses conducted to explain field performance; and
+d.	
+
+Includes comparisons of expected and measured performance to indicate what worked or did not work, along with associated explanations.
+
+4.	
+
+An “Implications” section that
+
+a.	
+
+Clearly presents the message developed from the case study. For example, the message might address one or more of the following questions:
+
+(1)	
+
+How did a critical soil layer remain undetected and what should have been done to avoid the problems it caused?
+(2)	
+
+What specific analysis or design method was deficient and how can it be improved?
+(3)	
+
+Conversely, if a specific analysis or design method was successful, was this the result of compensating errors? Should the method continue to be used in the future?
+(4)	
+
+What construction procedure was deficient, how was the problem resolved, and how can it be avoided?
+(5)	
+
+Conversely, if a construction procedure was successful, under what conditions is it recommended for future projects?
+
+b.	
+
+Explains the relevance and importance of the message for improvement of geotechnical and geoenvironmental engineering practice; and
+c.	
+
+Provides specific recommendations where possible.
+
+5.	
+
+A “Summary and Conclusions” section that
+
+a.	
+
+Summarizes the nature and scope of the work;
+b.	
+
+Describes the problems/challenges addressed in the paper;
+c.	
+
+Summarizes the message and the importance of this new information; and
+d.	
+
+Discusses any unresolved issues and provides recommendations for future work.
+
+
+Case study format
+
+
+Executive Summary
+
+Executive summary for a case study is usually similar to the general summary. It is basically a short snapshot that shed the image of your entire case precisely, which consists of a page, most of the time. It doesn’t include too much detail about your case but focuses on key elements or main highlights of your case study. Reading the executive summary of your case study must give the reader an idea about the entire case study and its key elements. There are two approaches adopted to write case studies.
+
+    The first approach is to write the case study’s executive summary in short paragraphs.
+    On the other hand, the second approach is to write it in form of points.
+
+Key Points to Cover in an Executive Summary
+
+There are a few things which are necessary to include in your case study’s executive summary i.e. problem statement, recommendation, evidence and supporting arguments, and last but not the least conclusion.
+
+Case Study Format
+
+All these things comprise to form a perfect executive summary, which let the reader walk through the entire case study, just by reading it.
+
+    The first thing to include in a case study format is an executive summary, as mentioned above. The very first thing to add in executive summary is problem statement. It let the reader know about the key issue discussed in the entire case in just a few lines. Problem statement usually comprises of one or two statement but may vary according to the case.
+    The second thing to add is recommendation after stating the problem statement. What is this recommendation about? It presents one or a few ideas to resolve the problem stated in problem statement.
+    The next thing to add in the executive summary is supporting arguments and evidence. It is all about highlighting key areas of your entire case and the arguments of the case. Moreover, it also states one or a few pieces of evidence that support your recommendation section.
+    This is the last thing to add in the executive summary is conclusion that definitely concludes everything stated here in this portion. You must let the reader know the key message you want to deliver. Also, state why it is essential to resolve this problem and what are the expected outcomes if the reader follows your recommendations you stated in your case study.
+
+Introduction
+
+The introduction section of the case study is somehow different from the introduction section of research paper. What is this section intended to have? It is usually here to formulate the stage for your entire case study. It must not only introduce the report of your case but also should state the key problem being faced and discussed thoroughly in a clear and accurate tone.
+
+One thing which is worth-mentioning here is that case study is not like a scientific research report, which is only read by the experts or scientists. It must be written in such a way that a layperson could read and understand it well. Reading the introduction section of case study must let the user know about full case study i.e. what it is about, what are the key areas discussed in this and how the reader will get benefit from it etc. It must not be short enough to miss the necessary details. On the other hand, it must not be long enough that it becomes boring.
+
+Don’t include irrelevant or unnecessary details in it. Just be precise and accurate, and try to include the following:
+
+    A perfect and well-written introductory sentence.
+    A short but precise problem statement.
+    All necessary problem details.
+    The best recommendations for the stated problem.
+    And last but not the least: roadmap of the entire case study.
+
+Analysis
+
+The next section of the case study, when it comes to case study format is analysis. It is usually a detailed section of your case study and it is supposed to examine the problem (which is identified in the previous section) in detail.
+
+When it comes to the right way to structure the analysis section, make sure to ask from your instructor about this, whether there is any format to follow specifically when writing it i.e. SWOT or PEST etc? If your instructor tells you to write it generally, here are a few important things you need to know.
+
+    Start with examining the problem and try to focus on its most crucial or sensitive parts. Here, you are not meant to include any irrelevant or unnecessary details. Your main focus should be the main problem and its critical areas.
+    Make sure to mention the causes as well as effects, or any other detail you think is necessary to include. Also, make use of headings to highlight every single portion.
+    Here, you are also meant to provide a meaningful conclusion to your analysis. It must conclude all the points, ideas and thoughts you discussed previously into some meaningful ending.
+
+Alternatives and Decision Criteria
+
+This section of the case study format addresses two key areas. The first one is alternatives and the second one is the decision criteria.
+
+As the name suggests, alternatives must mention all the potential ways the identified problem can be addressed. It let the reader think about the different directions (which are successful as well) to solve the problem. Knowing all the alternatives or the available options to solve the problem, the reader can definitely identify the best possible solution to the problem, as per knowledge and thinking criteria.
+
+One thing which is worth mentioning here is that all the presented solutions to the problems in the alternatives portion must be mutually exclusive. Why is it important to present the mutually exclusive alternatives? What are basically mutually exclusive alternatives?
+
+Mutually exclusive alternatives refer to the situation in which selecting one alternative eliminate all others. There is a specific and a single solution to the identified problem. Mutually exclusive alternatives prevent a scenario in which it becomes essential to implement several available alternatives. When the alternatives will be mutually exclusive, it means that choosing one will eliminate the chances of selection of all others and thus, one alternative will be implemented.
+
+The second thing which needs to be stated here in this portion is decision criteria. It means that you must state precisely your decisive factor i.e. key requirements one need to meet successfully for solving the problem. It is the most important thing here in this portion and you must state it in easy to read and simple words so that the reader could understand it well.
+Recommendations and Implementation Plan
+
+In this section of the case study format, the reader is well aware of all the recommendations for sure. So, there is no need to introduce the reader to the basics of the recommendations again. Rather, you are supposed to let the reader know the specifics of recommendation for solving the identified problem. In this regard, the reader will automatically get all the aspects of the recommended solution to the problem and will see how it will take you to the path of success i.e. towards the path of resolving the problem. For executing the recommendation in a successful manner, here you need to proffer the reader a well thought-out and a comprehensive implementation plan so that the reader could execute the recommended solution, making sure the success.
+
+The recommendations and implementation plan is supposed to include a few things must, which are the following:
+
+A detailed overview of what your recommendation entails, which are necessary steps to follow to implement this successfully and also, the required expertise or a list of equipment needed.
+
+When it comes to the implementation plan, here are a few things which are essential to state here:
+
+    The most important parts of the entire plan of implementation, and who will be accountable for those parts separately.
+    Whether it is short term, long term or medium term implementation plan.
+    The overall cost required to implement the recommendation.
+    The effects of the implementation of recommendation on the entire organization.
+    The last but not the least thing to mention here is the potential things which could fail while implementation and plan to recover that failure, if any.
+
+Conclusion and References
+
+This is the portion of your case study where you are going to make a final ending note for your reader in a few easy to understand yet powerful statements. These statements must emphasize the proposed recommendations. As per common observation, a few instructors don’t suggest you to include this portion of conclusion in your case study but it is helpful in providing a strong endnote to your case study.
+
+There are a few things which are essential to add in this conclusion section, which are the following:
+
+    If the purpose of your case is complex, make sure to summarize it here, in point form, so that the reader could have a review at the entire case again, before approaching the conclusion.
+    If you haven’t yet stated the importance of your findings, make sure to do it here in this conclusion section.
+    A few concluding sentences that shed the case’s summary and let the reader know what he has learned from this. Moreover, choose to finalize with a few memorable and impactful sentences.
+
+However, the conclusion is the most important section of your case study as you are going to give your entire case an end note, so here are a few things you must keep in your mind while writing this portion.
+
+    A few people give an abrupt ending to the case study, which is one of the biggest mistakes ever. The reason is that the ending must be impactful and must not leave the reader disappointed. So, formulate a few sentences to create a path towards a natural close.
+    While stating your recommendation, try to summarize the ways problem will be resolved at hand.
+    Make sure everything you write in conclusion portion is convincing enough to persuade the reader to believe that the recommended solution will work the best for solving the particular problem.
+
+Citing Sources
+
+As per universal rule, you must cite any idea, though, or expression that is not yours and is presented by someone else. These citations are must to include at the end of your case study. The plagiarism policies or academic misconduct policies vary from one institute to another so you must familiarize yourself with the ones of your institute. Other than this, try your level best to make your case study written in a perfect manner and make sure to cite all of the following:
+
+    Ideas presented by others, which are originally not by you.
+    Use of quotations is not recommended while writing the case study. But, if you do, make sure to cite it properly.
+    Any summarized work by any other writer.
+    Definitions, models or theories etc presented by others must also be properly cited.
+    Any information from company websites, annual reports, or press releases must also be cited in a proper manner.
+
+What is the Proper Way to Write Citations?
+
+If you are going to write the citation for the very first time, you need to know that these aren’t written generally. Rather, there is a specific format to follow while writing them. There are a few citations styles which are used by the students universally but before finalizing, you must ask your instructor to suggest you the best one.
+
+A few most commonly used citation styles are the following:
+
+    APA
+    MLA
+    Chicago
+
+citation styles
+An Ideal Case Study should be LOGICAL, ALL INCLUSIVE & THOROUGH
+
+characteristics your case study
+
+There are a few characteristics your case study must possess, which are the following:
+
+    LOGICAL
+
+The first and foremost thing is that each and every section or part of your case study must be logical. Any guesses or estimations must not be included in your case study as everything is supposed to be logical and authentic. However, you can choose to write your observation generally in your case study but it must not state any sort of assumptions made from that.
+
+    All INCLUSIVE
+
+The next thing is that your case study must not miss any data or findings. It should be all inclusive i.e. you aren’t given the authority to choose data or findings to include or skip. You are liable to put everything in it. Otherwise, it could fail to be a successful case study.
+
+    THOROUGH
+
+The last thing to mention here is that your case study must be thorough. You aren’t just meant to write down all the observations during your research but rather, you must proffer the in-depth detail to every observation as well.
+
+So, this is all about writing your case study as well as the right case study format to follow while writing it. Keep all the above-listed things in mind and start your writing process now.
+
+Lots of Luck!
+
+
+The case study format is typically made up of eight parts:
+
+    Executive Summary. Explain what you will examine in the case study. Write an overview of the field you’re researching. Make a thesis statement and sum up the results of your observation in a maximum of 2 sentences.
+    Background. Provide background information and the most relevant facts. Isolate the issues.
+    Case Evaluation. Isolate the sections of the study you want to focus on. In it, explain why something is working or is not working.
+    Proposed Solutions. Offer realistic ways to solve what isn’t working or how to improve its current condition. Explain why these solutions work by offering testable evidence.
+    Conclusion. Summarize the main points from the case evaluations and proposed solutions. 6. Recommendations. Talk about the strategy that you should choose. Explain why this choice is the most appropriate.
+    Implementation. Explain how to put the strategy into action.
+    References. Provide all the citations.
